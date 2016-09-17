@@ -1,1 +1,2 @@
 stars
+The merge was successful
